@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.5b7dacbf.css",
-    "main.js": "./static/js/main.16a8d6fe.js",
-    "static/js/787.23170c61.chunk.js": "./static/js/787.23170c61.chunk.js",
-    "static/media/slider2.jpg": "./static/media/slider2.8de7ccb6038fa205aadb.jpg",
-    "static/media/slider3.jpg": "./static/media/slider3.707bc97c216c02812742.jpg",
-    "static/media/slider1.jpg": "./static/media/slider1.10c3f455241d8bbd527a.jpg",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html",
-    "main.5b7dacbf.css.map": "./static/css/main.5b7dacbf.css.map",
-    "main.16a8d6fe.js.map": "./static/js/main.16a8d6fe.js.map",
-    "787.23170c61.chunk.js.map": "./static/js/787.23170c61.chunk.js.map"
+    "main.css": "./React-shop/static/css/main.5b7dacbf.css",
+    "main.js": "./React-shop/static/js/main.2ee3c29b.js",
+    "static/js/787.23170c61.chunk.js": "./React-shop/static/js/787.23170c61.chunk.js",
+    "static/media/slider2.jpg": "./React-shop/static/media/slider2.8de7ccb6038fa205aadb.jpg",
+    "static/media/slider3.jpg": "./React-shop/static/media/slider3.707bc97c216c02812742.jpg",
+    "static/media/slider1.jpg": "./React-shop/static/media/slider1.10c3f455241d8bbd527a.jpg",
+    "static/media/logo.svg": "./React-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./React-shop/index.html",
+    "main.5b7dacbf.css.map": "./React-shop/static/css/main.5b7dacbf.css.map",
+    "main.2ee3c29b.js.map": "./React-shop/static/js/main.2ee3c29b.js.map",
+    "787.23170c61.chunk.js.map": "./React-shop/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b7dacbf.css",
-    "static/js/main.16a8d6fe.js"
+    "static/js/main.2ee3c29b.js"
   ]
 }
